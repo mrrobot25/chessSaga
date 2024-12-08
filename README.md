@@ -24,8 +24,8 @@ To run **ChessSaga** locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone (https://github.com/mrrobot25/chessSaga.git)
+   cd chessSaga
    ```
 
 2. Install the required dependencies:
@@ -60,7 +60,7 @@ Your feedback is valuable! Feel free to rate the generated story as **Amazing** 
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the Apache License 
 
 ## Acknowledgements
 
