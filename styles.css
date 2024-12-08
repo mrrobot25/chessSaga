@@ -1,0 +1,48 @@
+/* Custom Styles for ChessSaga App */
+
+.title {
+    font-size: 2.5em;
+    color: #2E86C1;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.subheader {
+    font-size: 1.5em;
+    color: #117A65;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.section-title {
+    font-size: 1.3em;
+    color: #1C2833;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.game-info {
+    background-color: #F9EBEA;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.story-box {
+    background-color: #FEF9E7;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.feedback-section {
+    background-color: #D5F5E3;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
