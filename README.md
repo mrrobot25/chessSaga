@@ -60,7 +60,7 @@ Your feedback is valuable! Feel free to rate the generated story as **Amazing** 
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the Apache License 
 
 ## Acknowledgements
 
